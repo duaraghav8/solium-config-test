@@ -1,0 +1,22 @@
+{
+  "name": "solium-config-test",
+  "version": "0.0.0",
+  "description": "Solium Sharable Config - ONLY FOR TESTING PURPOSES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solium",
+    "lint",
+    "solidity",
+    "blockchain",
+    "code-quality",
+    "ethereum",
+    "dev-tools",
+    "ast",
+    "soliumconfig"
+  ],
+  "author": "Raghav Dua <duaraghav8@gmail.com>",
+  "license": "MIT"
+}

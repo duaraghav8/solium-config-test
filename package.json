@@ -18,5 +18,8 @@
     "soliumconfig"
   ],
   "author": "Raghav Dua <duaraghav8@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "solium": "^1.0.0"
+  }
 }

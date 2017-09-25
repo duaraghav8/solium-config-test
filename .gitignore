@@ -59,6 +59,6 @@ typings/
 
 .DS_Store
 
-_build
-_static
-_templates
+docs/_build
+docs/_static
+docs/_templates

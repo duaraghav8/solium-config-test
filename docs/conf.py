@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Sample Config documentation build configuration file, created by
-# sphinx-quickstart on Mon Sep 25 16:26:53 2017.
+# sphinx-quickstart on Mon Sep 25 16:52:38 2017.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -94,21 +94,6 @@ html_theme = 'alabaster'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-
-# Custom sidebar templates, must be a dictionary that maps document names
-# to template names.
-#
-# This is required for the alabaster theme
-# refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars
-html_sidebars = {
-    '**': [
-        'about.html',
-        'navigation.html',
-        'relations.html',  # needs 'show_related': True theme option to display
-        'searchbox.html',
-        'donate.html',
-    ]
-}
 
 
 # -- Options for HTMLHelp output ------------------------------------------
